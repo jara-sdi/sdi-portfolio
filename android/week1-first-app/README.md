@@ -1,4 +1,4 @@
-# Week 1 Lab — Create Your First Android UI
+# Week 2 Lab — Create Your First Android UI
 
 **Course:** Mobile App Development
 **Language:** Java  
@@ -7,7 +7,7 @@
 ## Project Setup
 - Template: Empty Views Activity
 - Project name: FirstApp
-- GitHub folder: android/week1-first-app/
+- GitHub folder: android/week2-first-app/
 
 ## Key Concepts
 | Concept | File | Role |
